@@ -3,4 +3,4 @@ jobs:
   maanam:
     steps:
       - run: echo hello world
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
